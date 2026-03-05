@@ -1,4 +1,4 @@
-# THE FORGE
+# THE FORGE - T1
 ### by Zeew Space
 *Construimos juntos. Aprendemos haciendo.*
 
@@ -54,5 +54,12 @@ No buscamos perfección técnica. Buscamos personas comprometidas, que se comuni
 Las plazas son limitadas porque queremos cuidar la experiencia de cada persona que entre.
 
 ---
+
+## Como unirme
+
+- Entra al discord https://zeew.space/discord
+- Evento de bienvenida el 16 de marzo del 2026 - 14hrs Cancun México
+- Entrada 100% GRATIS https://forms.gle/GAGMCXkHtrA4AZUbA
+- Si quieres ayudar a organizar, patrocinar o crear alianza unete al discord y abre ticket usando el comando `/ticket`
 
 *Zeew Space. Construimos juntos.*
