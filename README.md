@@ -58,8 +58,14 @@ Las plazas son limitadas porque queremos cuidar la experiencia de cada persona q
 ## Como unirme
 
 - Entra al discord https://zeew.space/discord
-- Evento de bienvenida el 16 de marzo del 2026 - 14hrs Cancun México
+- Evento de bienvenida el 3 de abril del 2026
 - Entrada 100% GRATIS https://forms.gle/GAGMCXkHtrA4AZUbA
 - Si quieres ayudar a organizar, patrocinar o crear alianza unete al discord y abre ticket usando el comando `/ticket`
+
+- 00:47 🇪🇸
+- 17:47 🇲🇽 🇳🇮 🇨🇷
+- 18:47 🇨🇴 🇵🇪
+- 19:47 🇵🇷 🇻🇪
+- 20:47 🇦🇷 🇨🇱
 
 *Zeew Space. Construimos juntos.*
