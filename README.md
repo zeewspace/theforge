@@ -58,7 +58,7 @@ Las plazas son limitadas porque queremos cuidar la experiencia de cada persona q
 ## Como unirme
 
 - Entra al discord https://zeew.space/discord
-- Evento de bienvenida el 3 de abril del 2026
+- Evento de bienvenida [en curso]
 - Entrada 100% GRATIS https://forms.gle/GAGMCXkHtrA4AZUbA
 - Si quieres ayudar a organizar, patrocinar o crear alianza unete al discord y abre ticket usando el comando `/ticket`
 
